@@ -218,6 +218,7 @@ color: #000000;
 .beneath {
     text-align: center;
     margin: 50px 0;
+    line-height: 22px;
 }
 input {
     font-family: Proxima Nova;
@@ -261,7 +262,7 @@ padding: 10px 30px 10px 30px;
 font-style: normal;
 font-weight: normal;
 font-size: 64px;
-
+line-height: 75px;
 color: #000000;
 text-align: center;
 }
